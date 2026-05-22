@@ -30,7 +30,7 @@ SubspaceHunter-SAO 是一个开源的可商用的 Unity XR(VR+MR) 动作游戏�
 https://www.bilibili.com/video/BV13h4y1B71P/<br>
 https://www.bilibili.com/video/BV1za41197PR/<br>
 https://www.bilibili.com/video/BV1jX4y1H76f/<br>
-https://www.bilibili.com/video/BV1mW421X7jg/
+https://www.bilibili.com/video/BV1mW421X7jg/<br>
 
 ## 开源、可商用资产说明
 
