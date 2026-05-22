@@ -65,17 +65,6 @@ https://www.bilibili.com/video/BV1mW421X7jg/<br>
 - 主要目标平台：Android / Quest / PCVR 设备
 - XR 相关包：Oculus XR、OpenXR、XR Management
 
-## Github仓库包含
-
-- `Packages/`
-- `ProjectSettings/`
-- `Assets/SubspaceHunter/Script` 下可共享脚本
-- `Assets/SubspaceHunter/Scenes/Script` 下可共享场景辅助脚本
-- `Assets/PublicDemo/PublicScenes` 下的公开 demo 场景文件，当前通过 Git LFS 管理
-- 项目文档
-
-
-
 
 ## 快速开始
 
