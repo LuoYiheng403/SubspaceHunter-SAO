@@ -27,6 +27,12 @@ SubspaceHunter-SAO 是一个开源的可商用的 Unity XR(VR+MR) 动作游戏�
 
 <img src="docs/images/readme-characters.png" alt="SubspaceHunter-SAO 角色与敌人资产展示" width="100%">
 
+<img src="docs/images/readme-public-demo.png" alt="SubspaceHunter-SAO 公开 Demo 展示" width="100%">
+
+<img src="docs/images/readme-mr-demo.png" alt="SubspaceHunter-SAO MR 战斗展示" width="100%">
+
+<img src="docs/images/readme-scene-collage.png" alt="SubspaceHunter-SAO 场景展示合集" width="100%">
+
 
 ## 第三方资产、IP相关资产说明
 
