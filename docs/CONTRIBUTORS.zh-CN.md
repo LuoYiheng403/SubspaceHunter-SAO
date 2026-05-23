@@ -7,6 +7,7 @@
 ## 贡献者名单
 
 - Hexin Wang
+- 游戏迷/ youximi/ @github-username
 - Xinjian Zhuang
 - @chomoe327
 
