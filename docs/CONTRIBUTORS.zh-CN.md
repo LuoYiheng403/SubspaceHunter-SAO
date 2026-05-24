@@ -10,6 +10,7 @@
 - youximi
 - Xinjian Zhuang
 - @chomoe327
+- 絶剣/tempestoso/@daviesdaa
 - ExcaliburNMB
 - 南梁楚歌
 
