@@ -85,3 +85,13 @@ For code modules, public demo scene entry points, and the battle, enemy, weapon,
 - Use Git LFS only for large binary assets that are confirmed redistributable.
 - Keep corresponding `.meta` files when committing Unity assets.
 - Do not commit API keys, service credentials, signing files, private databases, or other sensitive information.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=whx-prog%2FSubspaceHunter-SAO&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left" />
+ </picture>
+</a>
