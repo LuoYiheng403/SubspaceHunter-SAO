@@ -8,7 +8,7 @@
 
 - Hexin Wang
 - youximi
-- Xinjian Zhuang
+- 玖渚蓝/KunagisaAi
 - @chomoe327
 - 絶剣/tempestoso/@daviesdaa
 - ExcaliburNMB
