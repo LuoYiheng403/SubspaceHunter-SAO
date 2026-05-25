@@ -95,9 +95,5 @@ https://www.bilibili.com/video/BV1mW421X7jg/<br>
 ## Star History
 
 <a href="https://www.star-history.com/?repos=whx-prog%2FSubspaceHunter-SAO&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left" />
- </picture>
+ <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left" />
 </a>
