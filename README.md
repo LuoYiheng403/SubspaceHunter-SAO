@@ -90,3 +90,4 @@ https://www.bilibili.com/video/BV1mW421X7jg/<br>
 - 只有确认可再分发的大体量二进制资源才可使用 Git LFS 提交。
 - 提交 Unity 资源时必须保留对应 `.meta` 文件。
 - 不要提交 API Key、服务凭证、签名文件、私有数据库或其他敏感信息。
+- 国内项目交流Q群：303140187
