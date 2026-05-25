@@ -8,13 +8,18 @@
 
 - Hexin Wang
 - youximi
-- Xinjian Zhuang
+- 玖渚蓝/KunagisaAi
 - @chomoe327
 - 絶剣/tempestoso/@daviesdaa
 - ExcaliburNMB
 - 南梁楚歌
 - Dew
 -Jiahui Xu
+- 帕蒂安
+- 洛沐语/Luomuyu/@LuoMuyu
+- 阿炎/Ryan/@ayanlz
+- 颓废的人
+- 我要零钱/Negan/@wylq-syr
 
 
 
